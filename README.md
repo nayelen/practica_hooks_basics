@@ -1,0 +1,2 @@
+Práctica para realizar una petición y guardar la información en un estado, ayudándonos de un useEffect para realizar la petición una única vez.
+Petición a la API de rick y morty, guardaremos los datos de la api en un estado, pintaremos los personajes de rick y morty
